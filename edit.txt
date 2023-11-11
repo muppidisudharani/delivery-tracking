@@ -1,1 +1,1 @@
-in delivery tracking if you have any issues you can edit the destination
+editing the tracking provides a setting on features classes and tables that allows you to automatically record information about any inserts and updates that are madeS
