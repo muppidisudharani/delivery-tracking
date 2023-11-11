@@ -1,1 +1,1 @@
-in delivery tracking we can add the orders
+when you add delivery tracking it means you're including the tracking number or order details to keep tabs on your package.
