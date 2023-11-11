@@ -1,0 +1,7 @@
+the view of delivery tracking consists of
+tracking number
+shipping carrier
+origin
+destination address
+transit history
+delivery date
