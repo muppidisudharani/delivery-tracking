@@ -1,0 +1,6 @@
+list of delivery tracking consists of 
+tracking number 
+current status 
+delivery date
+location 
+address
